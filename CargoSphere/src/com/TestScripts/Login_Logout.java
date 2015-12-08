@@ -30,7 +30,7 @@ public class Login_Logout extends DriverScript {
 		e.printStackTrace();
 	}
 	}
-	//2. To Logout from the Application
+	//2. To Logout from the Application.
 	public static void Logout(WebDriver oBrowser)
 	{
 		try
